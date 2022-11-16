@@ -8,7 +8,7 @@
 /* line 11, ../../sass/utilities/_normalize.scss */
 article,
 aside,
-details,
+details, 
 figcaption,
 figure,
 footer,
@@ -3422,7 +3422,7 @@ table ul {
   height: 100%;
   border-left: 1px solid #CECECE;
   border-right: 1px solid #CECECE;
-  background: #FFF;
+  background: #e7b40de1;
 }
 
 /* line 137, ../../sass/_export.scss */
@@ -3449,8 +3449,8 @@ table ul {
 
 /* line 162, ../../sass/_export.scss */
 .biz-ex-logo {
-  background-color: #FAFAFA;
-  border-bottom: 1px solid #e8e8e8;
+  background-color: #f5aa09;
+  border-bottom: 1px solid #f5aa09;
 }
 @media (min-width: 1024px) {
   /* line 162, ../../sass/_export.scss */
@@ -3487,7 +3487,7 @@ table ul {
 
 /* line 189, ../../sass/_export.scss */
 .biz-ex-top-nav {
-  background-color: #FAFAFA;
+  background-color: #f5aa09;
   padding: 1em 0;
 }
 
@@ -3589,13 +3589,13 @@ table ul {
    ========================================================================== */
 /* line 272, ../../sass/_export.scss */
 .biz-ex-navigation-left {
-  background: #FAFAFA;
+  background: #f5aa09;
   transition: width 0.25s;
 }
 @media (min-width: 1024px) {
   /* line 272, ../../sass/_export.scss */
   .biz-ex-navigation-left {
-    border-right: 1px solid #CECECE;
+    border-right: 1px solid #f5aa09;
   }
 }
 
@@ -5024,7 +5024,7 @@ body.off-canvas {
 .biz-ex-carousel-columns {
   width: 50%;
   float: left;
-  background-color: #F8F8F8;
+  background-color: #f8f8f8;
   border-top: 1px solid transparent;
   border-right: 1px solid #CECECE;
   border-bottom: 1px solid #CECECE;
@@ -6337,7 +6337,7 @@ img.biz-ex-diagram-image {
 /* line 2513, ../../sass/_export.scss */
 .isLocal .biz-ex-logo {
   border-bottom: none;
-  border-right: 1px solid #cecece;
+  border-right: 1px solid #f5aa09;
   margin-left: -4px;
 }
 
